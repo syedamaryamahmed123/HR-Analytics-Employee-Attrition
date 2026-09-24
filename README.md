@@ -166,6 +166,8 @@ Provides an executive summary of:
 * Average Age
 * Average Monthly Income
 * Average Years at Company
+  
+<img width="1455" height="831" alt="HR_Overview" src="https://github.com/user-attachments/assets/f40ae258-3542-4435-83f4-2593a0e1c014" />
 
 ### 2. Attrition Analysis
 
@@ -176,6 +178,8 @@ Analyzes attrition by:
 * Age Group
 * Overtime
 * Tenure
+
+<img width="1457" height="837" alt="Attrition_Analysis" src="https://github.com/user-attachments/assets/2ccb0af6-471f-4bf7-8c8c-7a6986d47471" />
 
 ### 3. Employee Analysis
 
@@ -188,6 +192,8 @@ Provides an overview of:
 * Income
 * Department
 * Years at Company
+
+<img width="1443" height="830" alt="Employee_Analysis" src="https://github.com/user-attachments/assets/a5d51505-ab8c-4d13-bd31-d017ba72efed" />
 
 Interactive slicers allow users to filter the dashboard by **Department, Job Role, Gender, and Overtime**.
 
@@ -285,15 +291,10 @@ Run the notebooks in this order:
 
 Open the SQL files in **MySQL Workbench** and run the analysis queries against the HR database.
 
-## Power BI Dashboard
+### Power BI
 
-### HR Overview
-<img width="1455" height="831" alt="HR_Overview" src="https://github.com/user-attachments/assets/f40ae258-3542-4435-83f4-2593a0e1c014" />
+Open:
 
-### Attrition Analysis
-<img width="1457" height="837" alt="Attrition_Analysis" src="https://github.com/user-attachments/assets/2ccb0af6-471f-4bf7-8c8c-7a6986d47471" />
-
-### Employee Analysis
-<img width="1443" height="830" alt="Employee_Analysis" src="https://github.com/user-attachments/assets/a5d51505-ab8c-4d13-bd31-d017ba72efed" />
+powerbi/HR_Analytics_Dashboard.pbix
 
 Refresh the data source if required, then explore the dashboard using the available filters and page navigation.
